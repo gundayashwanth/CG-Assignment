@@ -1,0 +1,37 @@
+
+<html>
+<head>
+<title>HASHBIRDS🕊️</title>
+<link rel="stylesheet"
+type="text/css"
+href="bootstrap.css"
+/>
+
+</head>
+<body>
+
+<p class="indent"/>
+<h1>
+our HASHBIRDS🕊️ organisation gives you the information of different birds as you select the specific bird section given below.
+alert("you have already entered our page");*/
+</h1>
+
+<h2>
+<a href="aboutus.html"     class="bluelink">   about us</a> 
+<a href="contactus.html"   class="bluelink">   contact us   </a>
+<a href="supportus.html"   class="bluelink">   support us  </a>
+</h2>
+
+
+<h3>
+
+<li> <a href="duck.html"	class="yellowlink">   ducks section   </a> </li>
+<li> <a href="sparrow.html"	class="yellowlink">sparrow section </a> </li>
+<li> <a href="peacock.html"	class="yellowlink">peacock section </a> </li>
+
+</h3>
+
+
+</body>
+</html>
+
